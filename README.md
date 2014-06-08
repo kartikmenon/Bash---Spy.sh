@@ -1,8 +1,8 @@
-Spy.sh, bash shell script
+##  Spy.sh, bash shell script
 
 Monitors log in and log out times and gathers statistics for people logging in remotely to a server via ssh. The program will return an output in the following format:
 
-Spy Report 
+## Spy Report
 Started at 20:54:08 on 04/05/14 and terminated at 22:02:08. 
  
 The people spied on were: Charles C. Palmer Ira Ray Jenkins 
